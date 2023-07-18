@@ -22,7 +22,19 @@ body {
   height: 100vh;
   padding: 2rem;
 }
-
+.mybutton {
+  width: 99px;
+  height: 40px;
+  flex-shrink: 0;
+  background: #e5e0ff;
+}
+.text-mybutton {
+  color: #7286d3;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 0%;
+}
 nav {
   display: flex;
   justify-content: space-between;
