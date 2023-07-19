@@ -21,4 +21,5 @@ jonas.deposit(430);
 jonas.withdraw(1);
 jonas.withdraw(12);
 jonas.withdraw(124);
+jonas.withdraw(124);
 console.log(jonas);
